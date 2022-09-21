@@ -28,7 +28,7 @@ Repository for our hackathon team to collaborate on.
 
 ## Example process
 
-Let's say you want to start working on a python script in a git repository with your team, the first thing you'll want to do is clone the repository, which is basically saving the repository locally to your machine (not to be confused with the cloning that occurs when making a branch), there are a number of ways you can clone from github, check the documentation/google and just save it in a sensible purpose made folder.
+Let's say you want to start working on a python script in a git repository with your team, the first thing you'll want to do is clone the repository, which is basically saving the repository locally to your machine (not to be confused with the cloning that occurs when making a branch), there are a number of ways you can clone from github, check the documentation/google, I find the command line the most satisfying way to do this lol.
 
 Once the git repo is on your local machine, you want to start working on the script and so the next step is to create your own branch away from `main`. Name it something useful like your name so we know whose work it is, or alternatively name it the specific feature that you are working on (this is probably more helpful).
 
